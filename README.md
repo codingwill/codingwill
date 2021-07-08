@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Will</h1>
 <h3 align="center">An aspiring game and web developer</h3>
 
+<hr></hr>
+<h3>Current project: <a href="https://komisi.art">KomisiART</a></h3>
+<h3>Github Page: <a href="https://codingwill.github.io">codingwill.github.io</a></h3>
+<h3>My Games: <a href="https://codingwill.itch.io">codingwill.itch.io</a>
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingwill&label=Profile%20views&color=0e75b6&style=flat" alt="codingwill" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingwill" alt="codingwill" /></a> </p>
