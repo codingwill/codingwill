@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring game and web developer</h3>
 
 <hr></hr>
-<h3>Current project: <a href="https://komisi.art">KomisiART</a></h3>
+<h3>Current project: Discord Bot (TBA)
 <h3>Github Page: <a href="https://codingwill.github.io">codingwill.github.io</a></h3>
 <h3>My Games: <a href="https://codingwill.itch.io">codingwill.itch.io</a>
   
