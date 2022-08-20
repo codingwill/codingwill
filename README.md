@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingwill" alt="codingwill" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js, Koa.js, React.js, Go, Unity, PHP (Magento 2)**
+- 🌱 I’m currently learning **Node.js, Koa.js, React.js, Go (Fiber), Unity, PHP (Lumen), Python (Tensorflow)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
